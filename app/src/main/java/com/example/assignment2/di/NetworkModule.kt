@@ -15,8 +15,8 @@ import javax.inject.Singleton
 import java.util.concurrent.TimeUnit
 
 /**
- * Hilt module that builds and provides the singleton networking dependencies
- * (Moshi, OkHttpClient, Retrofit, ApiService) used throughout the app.
+ * Hilt module that builds and provides the networking dependencies
+ * used throughout the app.
  */
 @Module
 @InstallIn(SingletonComponent::class)

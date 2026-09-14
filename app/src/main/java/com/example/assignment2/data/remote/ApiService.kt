@@ -11,8 +11,8 @@ import retrofit2.http.Path
 /**
  * Retrofit definition for the nit3213api.
  *
- * IMPORTANT: The auth endpoint path depends on which campus/class you belong to.
- * Change "footscray" below to "sydney" or "br" if that applies to you.
+ * The auth endpoint path depends on which campus/class you belong to.
+ * Change "footscray" below to "sydney" or "br" depending on your campus.
  */
 interface ApiService {
 

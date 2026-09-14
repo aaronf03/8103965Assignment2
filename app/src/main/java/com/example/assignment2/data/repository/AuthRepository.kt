@@ -9,8 +9,7 @@ import retrofit2.HttpException
 
 /**
  * Mediates between the ViewModel layer and the remote API for authentication.
- * Constructor injection (via @Inject) lets Hilt provide this class automatically
- * wherever it is required, without any manual wiring.
+ * @Inject lets Hilt provide this class automatically wherever it is required.
  */
 class AuthRepository @Inject constructor(
     private val apiService: ApiService

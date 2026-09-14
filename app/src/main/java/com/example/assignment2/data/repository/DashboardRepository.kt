@@ -7,9 +7,7 @@ import javax.inject.Inject
 import retrofit2.HttpException
 
 /**
- * Mediates between the ViewModel layer and the remote API for dashboard data.
- * Raw values coming back from the API (Any) are normalised to Strings so the
- * UI layer only ever has to deal with Map<String, String>.
+ * Handles Dashboard API requests.
  */
 class DashboardRepository @Inject constructor(
     private val apiService: ApiService

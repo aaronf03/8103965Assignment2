@@ -6,9 +6,9 @@ import androidx.recyclerview.widget.RecyclerView
 import com.example.assignment2.databinding.ItemEntityBinding
 
 /**
- * Displays a summary (every field except "description") for each entity.
- * Tapping a row invokes [onItemClick] with the full entity map so the
- * Details screen can show every field, including the description.
+ * Displays a summary for each entity. Tapping a row invokes [onItemClick]
+ * with the full entity map so the Details screen can show every field,
+ * including the description.
  */
 class EntityAdapter(
     private val entities: List<Map<String, String>>,

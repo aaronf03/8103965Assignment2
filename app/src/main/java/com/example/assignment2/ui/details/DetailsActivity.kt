@@ -5,8 +5,7 @@ import androidx.appcompat.app.AppCompatActivity
 import com.example.assignment2.databinding.ActivityDetailsBinding
 
 /**
- * Shows every field of the selected entity, including the description,
- * which is deliberately excluded from the Dashboard's summary view.
+ * Shows details of the selected entity.
  */
 class DetailsActivity : AppCompatActivity() {
 
