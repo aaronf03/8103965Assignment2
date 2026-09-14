@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.assignment2.app-mergeDebugResources-37:/layout/activity_dashboard.xml",
+        "source": "com.example.assignment2.app-main-40:/layout/activity_dashboard.xml"
+    },
+    {
+        "merged": "com.example.assignment2.app-mergeDebugResources-37:/layout/item_entity.xml",
+        "source": "com.example.assignment2.app-main-40:/layout/item_entity.xml"
+    },
+    {
+        "merged": "com.example.assignment2.app-mergeDebugResources-37:/layout/activity_login.xml",
+        "source": "com.example.assignment2.app-main-40:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.assignment2.app-mergeDebugResources-37:/layout/activity_details.xml",
+        "source": "com.example.assignment2.app-main-40:/layout/activity_details.xml"
+    }
+]
