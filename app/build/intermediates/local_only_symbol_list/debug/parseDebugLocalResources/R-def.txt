@@ -1,0 +1,34 @@
+R_DEF: Internal format may change without notice
+local
+color ic_launcher_background
+color purple_500
+color purple_700
+color teal_200
+drawable ic_launcher_background
+drawable ic_launcher_foreground
+id buttonLogin
+id editTextPassword
+id editTextUsername
+id layoutPassword
+id layoutUsername
+id progressBar
+id recyclerViewEntities
+id textDetails
+id textEmpty
+id textSummary
+id textTitle
+id toolbar
+layout activity_dashboard
+layout activity_details
+layout activity_login
+layout item_entity
+mipmap ic_launcher
+mipmap ic_launcher_round
+string action_login
+string app_name
+string dashboard_empty
+string dashboard_title
+string hint_password
+string hint_username
+string login_title
+style Theme.Assignment2

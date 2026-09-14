@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <string name="login_title">NIT3213 Login</string>
+    <string name="hint_username">Username (Student ID)</string>
+    <string name="hint_password">Password (First Name)</string>
+    <string name="action_login">Log In</string>
+    <string name="dashboard_title">Dashboard</string>
+    <string name="dashboard_empty">No entities to display.</string>
+</resources>
